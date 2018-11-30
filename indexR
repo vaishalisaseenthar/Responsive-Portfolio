@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en-us">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About | Your Name</title>
+  <link rel="stylesheet" type="text/css" href="resetR.css">
+  <link rel="stylesheet" type="text/css" href="style-2.css">
+</head>
+
+<body>
+
+  <header id="masthead">
+    <div class="container">
+      <a href="index.html" id="logo">Vaishali</a>
+      <nav>
+        <a href="indexR.html">About</a>
+        <a href="portfolioR.html">Portfolio</a>
+        <a href="contactR.html">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <div id="main-container" class="container">
+    <section class="main-section">
+      <h1>About Me</h1>
+
+      <img src="profile.jpg" class="auth-image" alt="Your Name">
+
+      <p>Marshmallow jelly souffl&eacute; pastry biscuit gummi bears tootsie roll tootsie roll gingerbread. Cotton candy muffin gingerbread fruitcake. Sweet roll souffl&eacute; topping wafer croissant oat cake gummi&nbsp;bears.</p>
+
+      <p>Jelly-o cheesecake dessert fruitcake ice cream brownie liquorice souffl&eacute;. Caramels biscuit gummi bears tiramisu chupa chups. Croissant macaroon cotton candy cake pudding.</p>
+
+    </section>
+
+
+  <footer>
+    <div class="container">
+      Copyright &copy; 2018 Vaishali Saseenthar
+    </div>
+  </footer>
+</body>
+
+</html>
